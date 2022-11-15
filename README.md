@@ -88,7 +88,7 @@ Demo
 
 - [Simple model](examples/simple_model/README.md)
 - [Simple model with varying infection rate](examples/simple_model_with_varying_infection_rate/README.md)
-
+- [Simple Model with 3rd Dose](examples/simple_model_with_3rd_dose/README.md)
 
 License
 -------
